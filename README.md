@@ -1,14 +1,10 @@
-         ___        ______     ____ _                 _  ___  
-        / \ \      / / ___|   / ___| | ___  _   _  __| |/ _ \ 
-       / _ \ \ /\ / /\___ \  | |   | |/ _ \| | | |/ _` | (_) |
-      / ___ \ V  V /  ___) | | |___| | (_) | |_| | (_| |\__, |
-     /_/   \_\_/\_/  |____/   \____|_|\___/ \__,_|\__,_|  /_/ 
- ----------------------------------------------------------------- 
+## Overview
 
+Wouldn't it be awesome if we could personalise a task manager to look and do exactly what we want it to do?
+This project aims to look into developing a fully personalised task manager. As this is the first version, the target audient would be myself.
 
-Hi there! Welcome to AWS Cloud9!
-
-To get started, create some files, play with the terminal,
-or visit https://docs.aws.amazon.com/console/cloud9/ for our documentation.
-
-Happy coding!
+## Technologies
+- Python3
+- Flask
+- MongoDB
+- AWS Cloud9
